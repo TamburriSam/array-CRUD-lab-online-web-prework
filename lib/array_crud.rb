@@ -28,7 +28,11 @@ end
 
 def retrieve_element_from_index(array, index_number)
    array = ["wow", "I", "am", "really", "learning", "arrays!"]
+<<<<<<< HEAD
    array[2]
+=======
+   index_number[2]
+>>>>>>> 743f0a9b02397486955cf6fff4b0adf066ce214c
 end
 
 def retrieve_first_element_from_array(array)
